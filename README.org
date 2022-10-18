@@ -1,0 +1,10 @@
+#+title:
+#+author: hgp22
+
+* Presentation
+
+You can see the presentation itself in slides.org.
+To see it in emacs, in presentation mode, you'll need to install
+=org-tree-mode=.
+
+You can find some information in [[https://github.com/hgp22/emacs-config/tree/main/Presentations][this usefull repo.]]
