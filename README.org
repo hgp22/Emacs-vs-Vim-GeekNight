@@ -29,7 +29,7 @@ sudo apt-get install texlive-latex-extra
 
 And it's ready to use!
 
-** References
+* References
 
 - https://gist.github.com/truonghm/3c302267e3087af6666af34b2f898821
 - https://orgmode.org/worg/exporters/beamer/tutorial.html
