@@ -1,0 +1,72 @@
+#+title: Text Editors: Emacs vs Vim
+#+author: hgp22
+#+date: 20 oct '22
+
+* University
+
+** First Steps
+
+#+caption: Sublime
+[[./imgs/sublime_smallicon.png]]
+
+#+caption: Code
+[[./imgs/code_smallicon.png]]
+
+** Most Used Text Editors
+
+#+caption: Vim
+[[./imgs/vim_smallicon.png]]
+
+#+caption: NeoVim
+[[./imgs/nvim_smallicon.png]]
+
+*** [Un]used Text Editors
+
+#+caption: DreamWeaver
+[[./imgs/dw_smallicon.png]]
+
+#+caption: Nano
+[[./imgs/nano_smallicon.png]]
+
+
+* Emacs
+
+** Intro
+
+- Why?
+- What attracted me towards emacs
+
+** Terminal & GUI
+
+- Differences
+- Pros vs Cons
+
+** ORG
+
+- Customizability
+- Range of options
+
+** Bloat
+
+- Tetris
+- Chess
+
+** Distros
+
+#+caption: Doom Emacs
+[[./imgs/doomemacs_smallicon.png]]
+
+#+caption: Spacemacs
+[[./imgs/spacemacs_smallicon.png]]
+
+And the list goes on...
+
+** Workflow
+
+- Editing Code & Text files
+- Terminal
+- ssh-org
+
+* The End (?)
+
+Of course not
