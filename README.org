@@ -3,8 +3,31 @@
 
 * Presentation
 
-You can see the presentation itself in slides.org.
+You can see the presentation itself in [[slide.org]] or [[slides.pdf]]. 
 To see it in emacs, in presentation mode, you'll need to install
 =org-tree-mode=.
 
 You can find some information in [[https://github.com/hgp22/emacs-config/tree/main/Presentations][this usefull repo.]]
+
+* Slides in PDF
+
+I used =org-beamer-export-to-pdf= to generate slides.org in pdf.
+
+To export a file to pdf in your machine, for ubuntu/mint/pop_os distros, you'll need:
+
+- TexLive base
+```sudo apt-get install texlive-latex-base```
+
+- Extra fonts and packages to avoid errors when compiling
+```
+sudo apt-get install texlive-fonts-recommended
+sudo apt-get install texlive-fonts-extra
+sudo apt-get install texlive-latex-extra
+```
+
+And it's ready to use!
+
+** References
+
+- https://gist.github.com/truonghm/3c302267e3087af6666af34b2f898821
+- https://orgmode.org/worg/exporters/beamer/tutorial.html
